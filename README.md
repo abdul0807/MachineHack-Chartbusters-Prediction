@@ -6,5 +6,5 @@ https://www.machinehack.com/course/chartbusters-prediction-foretell-the-populari
 <img src="image.png">
 
 ## Model
-* 5 Folds Linear Ridge Regression model
+* 10 Folds Linear Ridge Regression model
 * Basic features + some feature interactions
